@@ -3,19 +3,6 @@
 """
 Created on Thu Aug  2 18:40:30 2018
 
-@author: goudurix
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 26 22:58:20 2018
-
-@author: goudurix
-
-personal financial model
-
-
 """
 
 import pandas as pd 
